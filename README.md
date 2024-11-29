@@ -1,5 +1,8 @@
 # Tablut Competition 2024/2025
 Software for the Tablut Students Competition
+## Our strategy
+
+BLABLABLA
 
 ## Requirements
 
